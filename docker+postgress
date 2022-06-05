@@ -1,0 +1,2 @@
+To get the bash while running the docker image, we need to mention the entrypoint "docker run -it --entrypoint=bash python:3.9"
+To persist any changes to thats been made in the running image we need to write the image
